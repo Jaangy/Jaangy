@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaangy
 - 👀 I’m interested in football
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on Liverpool FC
+- 💞️ I’m looking to collaborate with Liverpool FC
 - 📫 How to reach me jakob.vuga@gmail.com
 
 <!---
